@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayender-5&label=Profile%20views&color=0e75b6&style=flat" alt="ajayender-5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayender-5" alt="ajayender-5" /></a> </p>
-
 - 🔭 I’m currently working on **[Generative AI and computer vision projects]**
 
 - 🌱 I’m currently learning **advanced machine learning techniques and deep learning models**
@@ -33,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayender-5&show_icons=true&locale=en&layout=compact" alt="ajayender-5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayender-5&show_icons=true&locale=en" alt="ajayender-5" /></p>
-
